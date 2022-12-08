@@ -78,6 +78,10 @@ h4 {
     margin-bottom: 40px;
 }
 
+#swe {
+    font-size: 8px;
+}
+
 /*------------------------------------heading*/
 header {
     margin: 0;
@@ -198,12 +202,12 @@ footer {
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
+    width: 42px;
+    height: 42px;
+    padding: 20px 0;
     border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
+    font-size: 25px;
+    line-height: 5px;
     text-align: center;
     color: #fafafa;
     background: #8f8f8f;
